@@ -1,5 +1,5 @@
 # Chinese Car Price Prediction
-An Automobile consulting company wants to understand the factors
+An Automobile consulting company(Geely automobiles) wants to understand the factors
 on which the pricing of cars depends. Specifically, they want to understand the factors 
 affecting the pricing of cars in the American market, since those may be
 very different from the Chinese market. So we use a Multiple Linear Regression Model for 
